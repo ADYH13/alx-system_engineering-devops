@@ -1,2 +1,2 @@
 #!/bin/bash
-chown horeb hello
+sudo chown horeb hello
